@@ -1,0 +1,16 @@
+Rockpaperscisccors
+
+Create;
+scorekeeper of computer.
+scorekeeper of human.
+
+Create a game function that should run 5 times.
+Should take in the playerinput and computerinput.
+
+Loop over game function 5 times:
+    
+    - Input from player (Function) 
+    - Function that returns a random play from computer(function)
+    - Check who won. paper > rock > scizzors > paper. equal is a tie. 
+    - log out results. 
+    - keep a score. It is best of 5.
